@@ -4,7 +4,7 @@
 using namespace std;
 
 class Calculator{
-public:
+private:
 float num1;
 float num2;
 
